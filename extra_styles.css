@@ -1,0 +1,4 @@
+// Estilos de CSS adicionales
+.navbar-nav > li {
+  border-left: 1px solid #013e8f;
+}
